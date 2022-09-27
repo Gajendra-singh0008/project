@@ -1,0 +1,52 @@
+body {
+    overflow: hidden;
+    background-color: #c78fd8;
+    
+    background-repeat: no-repeat;
+    background-position: left top;
+} 
+.new{
+    color: blue;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+.new{
+
+    
+    background-color:#4b82e7;
+    color: rgb(26, 13, 13);
+    border: 5cm;
+    border-radius:10px;
+}
+.new:hover {
+    background-color:#e74b94;
+    transition: 0.1s;
+}
+
+.btn0{
+
+    
+    background-color:#83ebdd;
+    color: rgb(26, 13, 13);
+    border: 5cm;
+    border-radius:10px;
+}
+.btn1{
+
+    
+    background-color:#83ebdd;
+    color: rgb(26, 13, 13);
+    border: 5cm;
+    border-radius:10px;
+}
+
+.btn2{
+
+    
+    background-color:#83ebdd;
+    color: rgb(26, 13, 13);
+    border: 5cm;
+    border-radius:10px;
+}
